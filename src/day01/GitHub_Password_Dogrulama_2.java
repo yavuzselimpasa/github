@@ -7,7 +7,7 @@ public class GitHub_Password_Dogrulama_2 {
                  2. Adım: Uzak URL'yi değiştirin
 Artık kişisel erişim belirtecimizi oluşturduğumuza göre, aşağıdaki komutu çalıştırmamız gerekiyor:
 
-   git uzak set-url kaynağı https://<githubtoken>@github.com/<kullanıcı adı>/<depo adı>.git
+  git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
 
    Yukarıdaki komutta değiştirdiğinizden emin olun:
 
